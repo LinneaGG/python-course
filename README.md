@@ -30,4 +30,4 @@ What is the best performance that you achieved with N=250?
 - Answers to NumPy exercises are in `numpy_exercises.py`
 - An optimised matmult script using NumPy is in `matmult_opt.py`
 - For MPI scripts see `mpi_ranks.py` and `mpi_sum.py`
-- 
+- For GPU computing script see `GPUcomputing.ipynb`
