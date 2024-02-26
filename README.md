@@ -2,7 +2,7 @@
 
 ### Day 1 
 
-- Readme file `LinneaGG.md` has is in the uu-python/participants repository
+- Readme file `LinneaGG.md` is in the uu-python/participants repository
 - Jupyter notebook with answers to questions is in `minimal_done.ipynb`
 
 ### Day 2
